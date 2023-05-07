@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Trending/static/css/main.a674e735.css",
+    "main.js": "/Trending/static/js/main.4b99a6a7.js",
+    "index.html": "/Trending/index.html",
+    "main.a674e735.css.map": "/Trending/static/css/main.a674e735.css.map",
+    "main.4b99a6a7.js.map": "/Trending/static/js/main.4b99a6a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a674e735.css",
+    "static/js/main.4b99a6a7.js"
+  ]
+}
